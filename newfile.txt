@@ -1,0 +1,13 @@
+Title: Snowball Rush
+
+Description:
+
+In Snowball Rush, you control a daring skier navigating a treacherous mountain path. Your goal? Avoid getting smashed by an ever-approaching giant snowball! Use A and D to steer your skier left and right, and hit Space to jump over obstacles that stand in your way.
+
+Power-Up Alert: Collect Molotov cocktails scattered throughout the course to unleash a fiery attack that clears obstacles from your path. Toss them back with E to carve a safer route and stay ahead of the snowball!
+
+Key Features:
+
+Endless Running: Test your reflexes as the course gets faster and more challenging the longer you survive. Dynamic Obstacles: Dodge a variety of obstacles that will keep you on your toes and make every run a unique challenge. Molotov Power-Ups: Strategically use Molotov cocktails to clear your path and gain an edge over the relentless snowball. Controls:
+
+A/D: Move left/right Space: Jump E: Throw Molotov cocktail (when collected)
